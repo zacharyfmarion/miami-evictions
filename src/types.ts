@@ -1,0 +1,1 @@
+export type LatLong = { lattitude: string, longitude: string };
